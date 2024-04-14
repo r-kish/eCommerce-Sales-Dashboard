@@ -1,6 +1,8 @@
 # e-Commerce Sales Dashboard (2023 Yearly Report)
 
-The e-Commerce industry was first popularized by eBay in 1995, with its introduction to online auctioning. Ever since then, e-Commerce has seen many new platforms such as Poshmark, Mercari, Depop, and Etsy just to name some of the currently popular ones. This project was intended to reflect the sales statistics into a yearly report dashboard for an online seller that uses multiple platforms for their business.
+The e-Commerce industry was first popularized by eBay in 1995, with its introduction to online auctioning. Ever since then, e-Commerce has seen many new platforms such as Poshmark, Mercari, Depop, and Etsy just to name some of the currently popular ones. 
+
+This project was intended to reflect the sales statistics into a yearly report dashboard for an online seller that uses multiple platforms for their business.
 
 ![Sales Dashboard](https://github.com/r-kish/eCommerce-Sales-Dashboard/blob/main/Dashboard.png)
 
