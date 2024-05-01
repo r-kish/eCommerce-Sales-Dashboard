@@ -6,7 +6,7 @@ This project was intended to reflect the sales statistics into a yearly report d
 
 ![Sales Dashboard](https://github.com/r-kish/eCommerce-Sales-Dashboard/blob/main/Dashboard.png)
 
-Data for this project was extracted from the sales report generators for eBay, Poshmark, and Mercari. Date range is from Jan 1, 2023 - Dec 31, 2023. Datasets were cleaned in Excel, and transferred to Tableau for visualization and dashboard creation. 
+Data for this project was extracted from the sales report generators for eBay, Poshmark, and Mercari. Date range is from Jan 1, 2023 - Dec 31, 2023. Datasets were cleaned in Microsoft SQL Server and Excel, then transferred to Tableau for visualization and dashboard creation. 
 
 You may view the finished, interactive dashboard on Tableau Public here: [2023 eCommerce Sales Dashboard](https://public.tableau.com/views/2023eCommerceSalesDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
