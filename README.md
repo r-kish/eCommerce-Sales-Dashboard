@@ -1,4 +1,4 @@
-# e-Commerce Sales Dashboard (2023 Yearly Report)
+# e-Commerce Sales Dashboard (2023 Annual Report)
 
 The e-Commerce industry was first popularized by eBay in 1995, with its introduction to online auctioning. Ever since then, e-Commerce has seen many new platforms such as Poshmark, Mercari, Depop, and Etsy just to name some of the currently popular ones. 
 
