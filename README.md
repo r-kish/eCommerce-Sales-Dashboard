@@ -2,7 +2,7 @@
 
 The e-Commerce industry was first popularized by eBay in 1995, with its introduction to online auctioning. Ever since then, e-Commerce has seen many new platforms such as Poshmark, Mercari, Depop, and Etsy just to name some of the currently popular ones. 
 
-This project was intended to reflect the sales statistics into a yearly report dashboard for an online seller that uses multiple platforms for their business while showcasing my knowledge of SQL Queries, and Tableau Dashboard creation.
+This project was intended to reflect the sales statistics into a yearly report dashboard for an online business that I co-founded which uses multiple platforms to conduct business while showcasing my knowledge of SQL Queries, and Tableau Dashboard creation.
 
 ![Sales Dashboard](https://github.com/r-kish/eCommerce-Sales-Dashboard/blob/main/Dashboard.png)
 
